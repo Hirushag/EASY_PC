@@ -1,0 +1,24 @@
+<resources>
+    <string name="emp1">Username:</string>
+    <string name="emp2">Password:</string>
+    <string name="emp3">Email:</string>
+    <string name="emp4">Contact Number:</string>
+    <string name="emp5">Password:</string>
+    <string name="emp6">Re Enter Password:</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="register_here">REGISTER HERE</string>
+    <string name="register">Register</string>
+    <string name="add_emp">ADD EMPLOYEE</string>
+    <string name="ad_panel">ADMIN PANEL</string>
+    <string name="edit_emp">EDIT EMPLOYEE</string>
+    <string name="add_part">Add Part</string>
+    <string name="rem_emp">REMOVE EMPLOYEE</string>
+    <string name="cus_profile">CUSTOMER PROFILE</string>
+    <string name="edit_cus">EDIT CUSTOMER</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+</resources>
