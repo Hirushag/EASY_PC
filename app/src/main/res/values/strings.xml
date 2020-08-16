@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">EASY PC</string>
+    <string name="form2" translatable="false">Brand :</string>
+    <string name="form3" translatable="false">Model :</string>
+    <string name="form4" translatable="false">Price :</string>
+    <string name="form5" translatable="false">Description :</string>
+    <string name="form6" translatable="false">Image :</string>
+    <string name="username">Username</string>
+    <string name="add_laptop">Add Laptop</string>
+    <string name="upload">Upload</string>
+    <string name="email">Email</string>
+    <string name="add_laptops">Add Laptops</string>
+    <string name="manage_laptops">Manage Laptops</string>
+    <string name="view_details">VIEW DETAILS</string>
+    <string name="laptops">LAPTOPS</string>
+    <string name="view_lap">VIEW LAPTOPS</string>
+    <string name="laptops1">LAPTOPS</string>
+    <string name="Acer">Acer Laptops</string>
+    <string name="Asus">Asus Laptops</string>
+    <string name="Dell">Dell Laptops</string>
+    <string name="addcart">Add To Cart</string>
+    <string name="acer_a514_55">Acer A514-55</string>
+    <string name="acer_a315_56">Acer A315-56</string>
+    <string name="acer_a515_53">Acer A515-53</string>
+    <string name="dell_inspiron_3593">Dell Inspiron 3593</string>
+    <string name="dell_inspiron_5593">Dell Inspiron 5593</string>
+    <string name="dell_vostro_nb_3578">Dell Vostro NB 3578</string>
+    <string name="asus_vivobook_15">Asus Vivobook 15</string>
+    <string name="asus_x509jb">Asus X509JB</string>
+    <string name="asus_x509ja">Asus X509JA</string>
+    <string name="rs_90_900_00">rs.90,900.00</string>
+    <string name="rs_97_900_00">Rs.97,900.00</string>
+    <string name="rs_130_500_00">Rs.130,500.00</string>
+    <string name="rs_126_900_00">Rs.126,900.00</string>
+    <string name="rs_179_900_00">Rs.179,900.00</string>
+    <string name="rs_98_900_00">Rs.98,900.00</string>
+    <string name="rs_94_590_00">Rs.94,590.00</string>
+    <string name="rs_139_900_00">Rs.139,900.00</string>
+    <string name="rs_108_900_00">Rs.108,900.00</string>
+    <string name="arrow"><![CDATA[>]]></string>
+    <string name="arrow6"><![CDATA[>]]></string>
+    <string name="arrow2"><![CDATA[<]]></string>
+    <string name="arrow3"><![CDATA[<]]></string>
+    <string name="arrow4"><![CDATA[>]]></string>
+    <string name="arrow5"><![CDATA[<]]></string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="todo13">TODO</string>
+    <string name="todo14">TODO</string>
+    <string name="todo15">TODO</string>
+    <string name="todo16">TODO</string>
+    <string name="todo17">TODO</string>
+    <string name="todo18">TODO</string>
+    <string name="todo19">TODO</string>
+    <string name="todo20">TODO</string>
+    <string name="todo21">TODO</string>
+    <string name="todo22">TODO</string>
+    <string name="todo23">TODO</string>
+    <string name="todo24">TODO</string>
+    <string name="todo25">TODO</string>
+</resources>
